@@ -1,2 +1,2 @@
 # email-in-python
-Sending emails with python
+simple code for sending emails using python
