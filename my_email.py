@@ -1,6 +1,4 @@
 import smtplib
-import socket
-
 
 gmail_user = 'putyourmailhere@gmail.com'
 gmail_password = 'putyourpasswordhere'
